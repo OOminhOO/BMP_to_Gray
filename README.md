@@ -88,9 +88,8 @@ $$
 $$
 
 # BMP 이미지 그레이스케일 변환 소프트웨어
-[DO-178C BMP Image Processor Documentation Package.pdf](https://github.com/user-attachments/files/22016266/DO-178C.BMP.Image.Processor.Documentation.Package.pdf)
 
-
+[DO-178C.BMP.Image.Processor.Documentation.Package.pdf](https://github.com/user-attachments/files/22016290/DO-178C.BMP.Image.Processor.Documentation.Package.pdf)
 
 <img width="320" height="320" alt="brainct_001" src="https://github.com/user-attachments/assets/4510de33-4e68-45fc-978e-d9cec78e96e1&quot; />
 
